@@ -9,9 +9,9 @@
 - ⚡ Fun fact: always looking for challenging job opportunities still focusing of the basic of CSE
 
 - 📫 How to reach me:  
-<a href="https://www.linkedin.com/in/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/tree/main/public/images/social/linkedin.png" width="40" /></a>
-<a href="https://github.com/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/tree/main/public/images/social/github-logo.png" width="40" /></a>
-<a href="mailto:roshan.louhar@gmail.com"><img src="https://github.com/roshanlouhar/roshanlouhar/tree/main/public/images/social/google-plus.png" width="40" /></a>
-<a href="https://twitter.com/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/tree/main/public/images/social/twitter.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/blob/main/public/images/social/linkedin.png" width="40" /></a>
+<a href="https://github.com/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/blob/main/public/images/social/github-logo.png" width="40" /></a>
+<a href="mailto:roshan.louhar@gmail.com"><img src="https://github.com/roshanlouhar/roshanlouhar/blob/main/public/images/social/google-plus.png" width="40" /></a>
+<a href="https://twitter.com/roshanlouhar"><img src="https://github.com/roshanlouhar/roshanlouhar/blob/main/public/images/social/twitter.png" width="40" /></a>
 
 ![Roshan's Github Stats](https://github-readme-stats.vercel.app/api?username=roshanlouhar&show_icons=true)
