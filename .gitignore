@@ -1,0 +1,6 @@
+
+*.sqlite
+*.vsidx
+*.db
+*.json
+.vs/roshanlouhar/v17/.wsuo
